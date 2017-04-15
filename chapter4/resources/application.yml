@@ -1,0 +1,6 @@
+server:
+  port: 2222
+spring:
+  data:
+    mongodb:
+       uri: mongodb://192.168.2.114:27017/fckvideo
