@@ -13,6 +13,15 @@ target/
 mvnw
 mvnw.cmd
 *.DS_Store
+*.apt_generated
+*.classpath
+*.factorypath
+*.project
+*.settings
+*.springBeans
+*.mvn/
+**/mvnw
+**/mvnw.cmd
 
 ### IntelliJ IDEA ###
 .idea
